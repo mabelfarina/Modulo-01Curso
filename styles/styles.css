@@ -26,14 +26,16 @@ nav li{
     list-style: none;
     display: inline;
     margin-right: 15px;
+    font-style: italic;
     
 }
 
 nav {
-    background-color: rgb(9, 128, 92);
+    background-color: rgb(110, 217, 140);
     color: #ffff;
     padding: 10px;
     display: flexbox;
+    
 }
 img {
     width: 100%;
@@ -44,13 +46,17 @@ img {
     width: 100%;
 }
 .table th{
-    background-color: rgb(34, 148, 59) ;
+    background-color: rgb(95, 218, 122) ;
     padding: 10px;
-    color: white;
 }
 .table td{
     padding: 10px;
     text-align: center;
 }
 
+.video {
+    width: 400px;
+   
+   
+}
 
